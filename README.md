@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Youssef ACHCHIRAJ
 - 👀 I’m interested in developing scalable mobile and web applications with Laravel and Nextjs.
-- 🌱 I’m currently developing a new CLI tool for [Fluxtor.dev](https://fluxtor.dev/) package and Having a Post as Full stack developer at Travel Design Company.
+- 🌱 I’m currently developing a new CLI tool for [Fluxtor.dev](https://fluxtor.dev/) package.
 - 😄 Check My Personal Account [@YoussefACHCHIRAJ](https://github.com/YoussefACHCHIRAJ)
 
 <!---
